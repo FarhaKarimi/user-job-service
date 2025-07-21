@@ -15,7 +15,7 @@ This is a Spring Boot microservice for managing users and jobs in a real-time jo
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/user-job-service.git
+   git clone https://github.com/FarhaKarimi/user-job-service.git
 Configure PostgreSQL:
 Create a database named userjobdb.
 Update src/main/resources/application.yml with your PostgreSQL credentials.
